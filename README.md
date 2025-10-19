@@ -55,5 +55,4 @@ The main objectives of this project are to provide a **robust and extensible bac
 | **Cloud Storage** | Cloudinary |
 | **PDF Processing** | pdf-parse |
 | **Environment Management** | dotenv |
-| **Deployment Ready** | Compatible with Vercel / Render / Railway |
 
